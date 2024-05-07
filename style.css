@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-font-smoothing:antialiased;
+    font-family: "Outfit";
+}
+body{
+    background-color: #334155;
+    color: #e2e8f0;
+}
+h1, h2, h3{
+    color: #a3e635;
+}
+.sushi, .macarrao, .frango, .yakissoba{
+    border-radius: 10px;
+}
+hr{
+    border-color:#a3e635;
+    
+}
+a{
+    color: #f1f7ff;
+}
